@@ -144,7 +144,7 @@ public class Control : MonoBehaviour
 
         Debug.Log(studentList[3]);
 
-
+        // LIST가  ㅍ
 
 
     }

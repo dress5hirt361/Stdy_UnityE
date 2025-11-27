@@ -128,6 +128,7 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 156602524}
+  - component: {fileID: 156602525}
   m_Layer: 0
   m_Name: Controler
   m_TagString: Untagged
@@ -150,6 +151,22 @@ Transform:
   m_Children: []
   m_Father: {fileID: 0}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &156602525
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 156602523}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 91370aca856e52a43969674ee35be22a, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: Assembly-CSharp::Control
+  a: 3
+  b: -3
+  fruit: "\uBC14\uB098\uB098"
+  art2: 0000000000000000000000000000000000000000
 --- !u!1 &173471844
 GameObject:
   m_ObjectHideFlags: 0
